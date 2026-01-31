@@ -5,3 +5,7 @@ Punycode converter from the browser
 **WARNING:** The web version does not convert punycodes based on the standards. For the version that is based on the standards and written in C#, visit https://github.com/huseyin78112/PunycodeConverterCS
 
 This project is a combination of public-domain and open-source implementations.
+
+Portions of this code are based on a Stack Overflow answer licensed under CC BY-SA.
+
+Source: https://stackoverflow.com/a/301287
